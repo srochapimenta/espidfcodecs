@@ -1,6 +1,6 @@
 {
-  "name": "espressif32",
-  "title": "Espressif 32",
+  "name": "espressif32-cfint",
+  "title": "Espressif 32 cfint",
   "description": "Espressif Systems is a privately held fabless semiconductor company. They provide wireless communications and Wi-Fi chips which are widely used in mobile devices and the Internet of Things applications.",
   "homepage": "https://espressif.com/",
   "license": "Apache-2.0",
@@ -12,13 +12,13 @@
     "RISC-V"
   ],
   "engines": {
-    "platformio": "^5"
+    "platformio": "^6"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/platformio/platform-espressif32.git"
   },
-  "version": "4.3.2",
+  "version": "4.4.0",
   "frameworks": {
     "arduino": {
       "package": "framework-arduinoespressif32",
